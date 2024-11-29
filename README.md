@@ -10,8 +10,7 @@ This application allows users to compare their investment portfolio's performanc
 - Provides different time frames for analysis (14 days, 1 month, 6 months, 1 year, From the beggining).
 - User-friendly interface with easy navigation.
 
-## application was made using these libraries
-
+## Application was made using these libraries
 
  - pandas
  - yfinance
@@ -26,11 +25,7 @@ STILL WORKING ON VERSION FOR OTHER USERS
 
 ## Usage
 
-1. Run the application:
-    ```sh
-    python main.py
-    ```
-
+1. Run the application
 2. Follow the on-screen instructions:
     - Enter the Google Sheets link containing your investment data.
     - Click "Save" to save the link.
@@ -64,3 +59,4 @@ For any inquiries, please contact the author at vikivyhnalek@gmail.com.
 
 ©2024 Viktor Vyhnalek. All rights reserved.
 
+note: I did not submit here any personal API keys and stuff like that because of my privacy.
