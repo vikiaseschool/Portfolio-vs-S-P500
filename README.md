@@ -22,7 +22,7 @@ This application allows users to compare their investment portfolio's performanc
 
 ## Installation
 
-STILL WORKING OR VERSION FOR OTHER USERS
+STILL WORKING ON VERSION FOR OTHER USERS
 
 ## Usage
 
