@@ -9,6 +9,8 @@ This application allows users to compare their investment portfolio's performanc
 - Displays results in a graphical format.
 - Provides different time frames for analysis (14 days, 1 month, 6 months, 1 year, From the beggining).
 - User-friendly interface with easy navigation.
+- Unique logic for calculating profits: Get your real-time profits and compete against the same investments in the S&P500.
+-  You instantly know whether you outperform S&P500 or should stick to DCA into ETFs.
 
 ## Application was made using these libraries
 
